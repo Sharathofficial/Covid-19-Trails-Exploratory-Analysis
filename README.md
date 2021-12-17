@@ -24,4 +24,11 @@ Interventional Study: A type of clinical study in which participants are assigne
 
 Expanded Access: A way for patients with serious diseases or conditions who cannot participate in a clinical trial to gain access to a medical product
 
-References : https://clinicaltrials.gov/ct2/about-studies/glossary
+## References : https://clinicaltrials.gov/ct2/about-studies/glossary
+
+
+## Conclusion
+
+We have analyzed the candidates for the clinical trials for the years 2020 and 2021. USA and France Lead the world in conducting Covid-19 Trails. Most Undergoing Studies are in Phase 2, with only 7.54% of studies in Phase 4, and 'Industries do max Funding for these Clinical trials.' NIH and US-FEDs fund some studies, and Most Studies aim to be completed by 2020-2025
+
+Through this midterm project, I learned how we could group the data and get the overall count. I discovered more about the Plots and their functionality. It will be a great experience towards my goal to become a Data Scientist. Thank you so much for the opportunity and assistance!
